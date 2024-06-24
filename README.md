@@ -38,10 +38,14 @@ art results.
 <img src="img/STB.png" alt="Alt text" title="Optional title" />
 
 
+# Pre-weight
+pre-training you can find this address
+https://drive.google.com/file/d/1IJPlnGeL_JZbALS6Iidr0sylnlFsIhdQ/view?usp=drive_link
+
 ## To Do
 
-- [ ] Provide clean training code
-- [ ] Provide clean sampling code
+- [x] Provide clean training code
+- [x] Provide clean sampling code
 
 
             
