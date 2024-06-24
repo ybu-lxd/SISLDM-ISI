@@ -42,10 +42,25 @@ art results.
 pre-training you can find this address
 https://drive.google.com/file/d/1IJPlnGeL_JZbALS6Iidr0sylnlFsIhdQ/view?usp=drive_link
 
+## How to use?
+```
+cd SSLDM-ISI
+```
+### you can run this demo to tran
+```
+python train.py
+```
+### you can run this demo to sample
+```
+python sample.py
+```
+## About the environment
+There is no special environment, the only thing required is cuda>=11.7 torch>=1.13
 ## To Do
 
 - [x] Provide clean training code
 - [x] Provide clean sampling code
+- [ ] Provide operating environment
 
 
             
